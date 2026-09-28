@@ -1,0 +1,12 @@
+{
+    "MD033": {
+        "allowed_elements": [
+            "details",
+            "summary",
+            "span"
+        ]
+    },
+    "MD013": {
+        "enabled": false
+    }
+}
