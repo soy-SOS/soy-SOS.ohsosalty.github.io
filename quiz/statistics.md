@@ -48,7 +48,7 @@ details[open] summary {
 
 ## Grundlagen
 
-<details>
+<details markdown="1">
 <summary>In welcher Beziehung stehen Theorie und Methode zur Politikwissenschaft?</summary>
 
 - Theorie:
@@ -57,12 +57,12 @@ details[open] summary {
   - Sind das Werkzeug, mit dem Fragen **empirisch** untersucht werden.
 
 </details>
-<details>
+<details markdown="1">
 <summary>Was bedeutet der Begriff "empirische Sozialforschung"?</summary>
 
 **Das systematische, datenbasierte Untersuchen von gesellschaftlichen und politischen Fragen.**
 
-  <details class="sub">
+  <details markdown="1" class="sub">
   <summary>Was sind die Subkategorien der empirischen Sozialforschung?</summary>
 
   | Quantitativ                          | Qualitativ        | Mixed Methods | Computational                             |
@@ -71,7 +71,7 @@ details[open] summary {
 
   </details>
 </details>
-<details>
+<details markdown="1">
 <summary>Benenne alle Schritte der Analysekette.</summary>
 
 0. Theorie
@@ -85,7 +85,7 @@ details[open] summary {
 7. (Zyklus wiederholt sich)
 
 </details>
-<details>
+<details markdown="1">
 <summary>Wie können Fragen wissenschaftlich beantwortet werden? (4 Merkmale) </summary>
 
 Eine wissenschaftliche Frage erfordert eine wissenschaftliche Antwort, die folgende Merkmale aufweist:
@@ -102,7 +102,7 @@ Eine wissenschaftliche Frage erfordert eine wissenschaftliche Antwort, die folge
    1. Das Fazit muss so formuliert sein, dass es widerlegt werden könnte.
 
 </details>
-<details>
+<details markdown="1">
 <summary>Warum reichen einzelne (anekdotische) Erfahrungen nicht aus? (3 Punkte)</summary>
 
 1. Auffällige Fälle bleiben stärker in Erinnerung.
@@ -110,7 +110,7 @@ Eine wissenschaftliche Frage erfordert eine wissenschaftliche Antwort, die folge
 3. Erwartungen und Werteinstellungen beeinflussen unsere Wahrnehmung.
 
 </details>
-<details>
+<details markdown="1">
 <summary>Welche (3) Fragen zeichnen die empirische Lösung aus?</summary>
 
 - Tritt ein Muster systematisch auf?
@@ -118,13 +118,13 @@ Eine wissenschaftliche Frage erfordert eine wissenschaftliche Antwort, die folge
 - Gibt es alternative Erklärungen?
 
 </details>
-<details>
+<details markdown="1">
 <summary>Was bedeutet es Fragen "empirisch" zu beantworten?</summary>
 
 Eine Untersuchung ist empirisch, wenn sie mithilfe von **Beobachtungen** und **Daten** erfolgt.
 
 </details>
-<details>
+<details markdown="1">
 <summary>Woher stammen Daten, die für empirische Forschung geeignet sind? (4 Beispiele)</summary>
 
 - Umfragen
@@ -136,7 +136,7 @@ Eine Untersuchung ist empirisch, wenn sie mithilfe von **Beobachtungen** und **D
 
 ## Forschungsfrage
 
-<details>
+<details markdown="1">
 <summary>Welche (4) Themen sind Untersuchungsgegenstände der Politikwissenschaft?</summary>
 
 - Macht
@@ -146,7 +146,7 @@ Eine Untersuchung ist empirisch, wenn sie mithilfe von **Beobachtungen** und **D
 
 </details>
 <!--  -->
-<details>
+<details markdown="1">
 <summary>Was sind die (4) Quellen politischer Forschungsfragen?</summary>
 
 - Politische Welt
@@ -156,9 +156,9 @@ Eine Untersuchung ist empirisch, wenn sie mithilfe von **Beobachtungen** und **D
 
 </details>
 <!--  -->
-<details>
+<details markdown="1">
 <summary>(4) Merkmale einer guten Fragestellung.</summary>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Wissenschaftliche Relevanz</summary>
 
 *Was versteht die Wissenschaft nachher besser?*
@@ -175,7 +175,7 @@ Für die wissenschaftliche Relevanz braucht es also einen direkten Bezug zum akt
 5. Das Problem lässt sich mit der Kombination von verschiedenen Forschungsansätzen besser erklären.
 
 </details>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Klare Formulierung</summary>
 
 *Sind die Konzepte der Frage eindeutig oder lassen sie Interpretationsspielraum?*
@@ -195,7 +195,7 @@ Problem -> Verbesserungsvorschlag:
 Eine bessere Frage wäre also: **Welche soziodemographischen Merkmale beeinflussen die Beteiligung an kantonalen Abstimmungen junger Erwachsener?**
 
 </details>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Beantwortbar</summary>
 
 *Sind wir mit den nötigen Mitteln ausgestattet, um die Frage überhaupt zu beantworten?*
@@ -203,7 +203,7 @@ Eine bessere Frage wäre also: **Welche soziodemographischen Merkmale beeinfluss
 Beobachtungen und/oder stimmige, logische Argumente bestimmen die Antwort.
 
 </details>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Offen</summary>
 
 *Enthält die Formulierung der Frage gleich die Antwort (oder einen Teil der Antwort)?*
@@ -213,7 +213,7 @@ Um die Frage ehrlich und wissenschaftlich beantworten zu können, muss sie offen
 </details>
 </details>
 <!--  -->
-<details>
+<details markdown="1">
 <summary>(5) Frage-/Antworttypen und ihr jeweiliges Ziel.</summary>
 
 Fragestellungen können in verschiedene Gruppen unterteilt werden. Ihre jeweiligen Antworten müssen zum gleichen Typus gehören.
@@ -231,25 +231,25 @@ Fragestellungen können in verschiedene Gruppen unterteilt werden. Ihre jeweilig
 
 ## Beispiel: Bestimme den Fragetypen
 
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Erhöht E-Voting die Wahlbeteiligung?</summary>
 
 Evaluativ
 
 </details>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Wer beteiligt sich an Klimademonstrationen?</summary>
 
 Deskriptiv
 
 </details>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Haben Schweizer:innen höheres Vertrauen in die Politik als Einwohner angrenzender Nachbarstaaten?</summary>
 
 Vergleichend
 
 </details>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Weshalb stimmen Schweizer:innen gegen Massnahmen, die den Klimaschutz stärken?</summary>
 
 Erklärend
@@ -259,18 +259,18 @@ Erklärend
 <!--  -->
 <details open>
 <summary >Was sind Theorie, Erwartung und Hypothese?</summary>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Theorie</summary>
 
 Die Theorie ist die begründete Auswahl möglicher Mechanismen. Sie stellt einen Zusammenhang zwischen zwei Variablen her und macht die Erwartungen sichtbar.
 </details>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Erwartung</summary>
 
 Die Erwartung ist die Anwendung der Theorie auf das zu untersuchende Fallbeispiel. Sie ist also die Beobachtung, die erklärt wird mittels der Theorie. Aus ihr wird die Hypothese gestellt.
 
 </details>
-<details class="sub">
+<details markdown="1" class="sub">
 <summary>Was ist die Hypothese? Was sind ihre 3 Bestandteile?</summary>
 
 Die Hypothese ist die Behauptung, die sich von der Erwartung ableiten lässt. Ihre Bestandteile sind:
@@ -281,22 +281,24 @@ Die Hypothese ist die Behauptung, die sich von der Erwartung ableiten lässt. Ih
 
 </details>
 
+<div markdown="1">
 Beispiel für politisches Wirksamkeitsgefühl und Wahlbeteiligung:
 
 - Mechanismus: <span class="spoiler">*Wer mehr Wirkung erwartet, investiert eher Zeit und Energie.*</span>
 - Erwartung: <span class="spoiler">*Höheres Wirksamkeitsgefühl geht mit mehr Engagement einher.*</span>
 - Hypothese: <span class="spoiler">*Je stärker das politische Wirksamkeitsgefühl junger Menschen, desto wahrscheinlicher beteiligen sie sich an Wahlen.*</span>
 
+</div>
 </details>
 <!--  -->
-<details>
+<details markdown="1">
 <summary>Was ist Operationalisierung?</summary>
 
 Die für die Fragestellung relevanten Konzepte müssen für eine empirische Untersuchung **messbar gemacht werden**, wobei wir uns auf passende **Indikatoren** beruhen. Mittels Verwendung von Indikatoren, finden auch abstrakte Konzepte empirischen Ausdruck.
 
 </details>
 <!--  -->
-<details>
+<details markdown="1">
 <summary>5 Merkmale einer guten Hypothese</summary>
 
 1. Sie benennt mindestens 2 Konzepte und ihre erwartete Beziehung.
@@ -307,7 +309,7 @@ Die für die Fragestellung relevanten Konzepte müssen für eine empirische Unte
 
 </details>
 <!--  -->
-<details>
+<details markdown="1">
 <summary>Was ist die Nullhypothese?</summary>
 
 Die Nullhypothese ist die Aussage, die besagt, dass die **Konzepte der Hypothese keine Beziehung** aufweisen.
@@ -315,7 +317,7 @@ Sie ist das, was bei existierenden Daten als erstes überprüft wird.
 
 </details>
 <!--  -->
-<details>
+<details markdown="1">
 <summary>Welche Auswirkung hat eine bestätigte Nullhypothese auf die Forschung?</summary>
 
 Ist die Nullhypothese bestätigt, so lässt sich schliessen, dass **kein Zusammenhang zwischen den Konzepten der Hypothese** besteht.
@@ -326,7 +328,7 @@ Eine widerlegte Hypothese hat dennoch wissenschaftlichen Mehrwert.
 
 </details>
 <!--  -->
-<details>
+<details markdown="1">
 <summary>4 Bestandteile der Forschungsantwort</summary>
 
 Eine Antwort sollte klar trennen, was in der Forschungsarbeit gelernt wurde und was noch offen bleibt. Mögliche beantwortete oder offene Fragen sind Folgende.
@@ -338,7 +340,7 @@ Eine Antwort sollte klar trennen, was in der Forschungsarbeit gelernt wurde und 
 
 </details>
 <!--  -->
-<details>
+<details markdown="1">
 <summary>Analysekette als Prüfkette: Was sind die (4) Fragen im Verlauf der Analysekette, mit denen ein Kettenbruch identifiziert werden kann?</summary>
 
 1. <span class="spoiler">Passt Theorie zu Frage?</span>
@@ -350,7 +352,7 @@ Eine Antwort sollte klar trennen, was in der Forschungsarbeit gelernt wurde und 
 
 ## Anhang
 
-<details>
+<details markdown="1">
 <summary>TEMPLATE</summary>
 
 - Markdown

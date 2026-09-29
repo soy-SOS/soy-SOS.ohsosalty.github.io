@@ -22,12 +22,15 @@ title: Sodium
 description: >- # this means to ignore newlines until "baseurl:"
   This is Sarina's testing ground for random stuff.
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://soy-sos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
+url: "https://soy-sos.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+# Permalinks
+permalink:        pretty
+encoding:         UTF-8
+kramdown:
+  parse_block_html: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
