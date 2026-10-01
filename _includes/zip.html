@@ -1,0 +1,57 @@
+<style>
+    details {
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 10px;
+        font-family: Arial;
+        margin: 20px 0;
+    }
+
+    summary {
+        font-weight: bold;
+        font-size: 125%;
+        font-family: Arial;
+        cursor: pointer;
+        padding: 5px;
+        border-radius: 3px;
+    }
+
+    summary:hover {
+        opacity: 50%;
+    }
+
+    details[open] summary {
+        margin-bottom: 10px;
+    }
+
+    .sub {
+        font-size: 95%;
+        border: 1px solid #70f5ff;
+        padding: 5px;
+        margin: 5px 0;
+    }
+
+    .spoiler {
+        color: transparent;
+        font-size: 120%;
+        font-style: italic;
+        background-color: rgba(100, 100, 100, 0.1);
+    }
+
+    .spoiler:hover {
+        color: inherit;
+        background-color: transparent;
+    }
+</style>
+
+
+<div class="quiz_zip">
+    <details {{ include.open }}>
+        <summary>{{ include.title }}</summary>
+        <div>
+
+            {{ include.content | markdownify }}
+
+        </div>
+    </details>
+</div>
