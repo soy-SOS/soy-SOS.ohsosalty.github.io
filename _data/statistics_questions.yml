@@ -6,6 +6,8 @@
 
     - Methoden
         - Sind das Werkzeug, mit dem Fragen **empirisch** untersucht werden.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
 
 - question: >-
@@ -21,6 +23,8 @@
     | Zahlen, Statistik, grosse Fallzahlen | Interviews, Texte | Kombination   | Grosse Datenmengen, Text- & Netzwerkdaten |
 
     </details>
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
 
 - question: >-
@@ -41,6 +45,8 @@
     7. neue Fragen
 
     8. (Zyklus wiederholt sich)
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
 
 - question: >-
@@ -61,6 +67,8 @@
 
     4. überprüfbare Schlussfolgerungen      
         1. Das Fazit muss so formuliert sein, dass es widerlegt werden könnte.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
 
 - question: >-
@@ -71,6 +79,8 @@
     2. Persönliche Erfahrungen sind nicht immer repräsentativ.
 
     3. Erwartungen und Werteinstellungen beeinflussen unsere Wahrnehmung.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
 
 - question: >-
@@ -81,12 +91,16 @@
     - Gilt die Beobachtung auch für andere Fälle?
 
     - Gibt es alternative Erklärungen?
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
 
 - question: >-
     Was bedeutet es Fragen "empirisch" zu beantworten?
   answer: >-
     Eine Untersuchung ist empirisch, wenn sie mithilfe von **Beobachtungen** und **Daten** erfolgt.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
 
 - question: >-
@@ -99,6 +113,8 @@
     - Interviews
 
     - offizielle Statistiken
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
 
 - question: >-
@@ -111,6 +127,8 @@
     - Regeln
 
     - kollektive Entscheidungen
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
@@ -123,6 +141,8 @@
     - Wissenschaftlicher Diskurs
 
     - Empirisches Rätsel
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
@@ -181,6 +201,8 @@
     Um die Frage ehrlich und wissenschaftlich beantworten zu können, muss sie offen formuliert sein. Ist sie so gestellt, dass sie kontroverse Annahmen trifft oder die eigene Wertung klar ersichtlich ist, so spricht man von einer **lenkenden Frage**.
 
     </details>
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
@@ -203,30 +225,40 @@
     - Normativ
         - Begründet Kriterien und wendet sie an.
 
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
     Bestimme den Fragetypen: Erhöht E-Voting die Wahlbeteiligung?
   answer: >-
     Evaluativ
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
     Bestimme den Fragetypen: Wer beteiligt sich an Klimademonstrationen?
   answer: >-
     Deskriptiv
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
     Bestimme den Fragetypen: Haben Schweizer:innen höheres Vertrauen in die Politik als Einwohner angrenzender Nachbarstaaten?
   answer: >-
     Vergleichend
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
     Bestimme den Fragetypen: Weshalb stimmen Schweizer:innen gegen Massnahmen, die den Klimaschutz stärken?
   answer: >-
     Erklärend
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
@@ -262,6 +294,8 @@
     - Erwartung: <span class="spoiler">*Höheres Wirksamkeitsgefühl geht mit mehr Engagement einher.*</span>
 
     - Hypothese: <span class="spoiler">*Je stärker das politische Wirksamkeitsgefühl junger Menschen, desto wahrscheinlicher beteiligen sie sich an Wahlen.*</span>
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
   open: open
 
@@ -269,6 +303,8 @@
     Was ist Operationalisierung?
   answer: >-
     Die für die Fragestellung relevanten Konzepte müssen für eine empirische Untersuchung **messbar gemacht werden**, wobei wir uns auf passende **Indikatoren** beruhen. Mittels Verwendung von Indikatoren, finden auch abstrakte Konzepte empirischen Ausdruck.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Operationalisierung"
 
 - question: >-
@@ -283,6 +319,8 @@
     4. Sie ist präzise genug, um empirisch geprüft zu werden.
 
     5. Beobachtungen können ihr widersprechen.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Fragestellung"
 
 - question: >-
@@ -290,6 +328,8 @@
   answer: >-
     Die Nullhypothese ist die Aussage, die besagt, dass die **Konzepte der Hypothese keine Beziehung** aufweisen.
     Sie ist das, was bei existierenden Daten als erstes überprüft wird.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
@@ -300,6 +340,8 @@
     Somit gilt die **Hypothese** als **widerlegt**.
 
     Eine widerlegte Hypothese hat dennoch wissenschaftlichen Mehrwert.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
@@ -314,6 +356,8 @@
     3. Ist der Zusammenhang kausal?
 
     4. Gilt der Zusammenhang (oder die Absenz eines Zusammenhangs) auch in anderen Kontexten?
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
@@ -326,10 +370,128 @@
     3. <span class="spoiler">Passen Daten und Analyse zur gewünschten Antwort?</span>
 
     4. <span class="spoiler">Passt die Schlussfolgerung zur tatsächlich durchgeführten Analyse?</span>
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
 
 - question: >-
-    .
+    Welche zwei grundlegenden Schritte machen die Operationalisierung aus?
   answer: >-
-    .
-  topic: "new"
+    - Klare Definition der Konzepte
+
+    - Festlegen des Indikators und seiner Datenquelle
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Operationalisierung"
+
+- question: >-
+    (2 Punkte) Was ist ein Konzept? (2 Punkte) Was ist die Funktion des Konzeptes?
+  answer: >-
+    Konzepte sind oft Schlüsselbegriffe, die in der Fragestellung enthalten sind. Zwei Punkte, um zusammenzufassen, was ein Konzept ist, sind folgende:
+
+    - abstrakte Idee
+
+    - Container für empirische Phänomene
+
+    Mit der Identifikation von Konzepten, kennen wir die Kernelemente unserer Forschungsfrage. Dies ermöglicht uns folgendes:
+
+    - Ermöglicht Präzision und Abgrenzung
+
+    - Diskrete Objekte und Situationen können zusammengefasst werden.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Operationalisierung"
+
+- question: >-
+    Welche drei Ansätze zur Erstellung eines Konzept gibt es?
+  answer: >-
+    - Aristoteles Ansatz:
+        - wesentliche Merkmale isolieren
+        
+        - Parameter bestimmen (also Dinge, die das Konzept beeinflussen, identifizieren)
+        
+        - Dependenzen / Bedingungen erkennen (Hängt das Konzept von einer bestimmten Begebenheit ab?)
+
+    - Wittgenstein
+        - Betrachten: wo gibt es Ähnlichkeiten?
+            - Dieser Ansatz geht die Problemstellung mit einem Clustering-Ansatz an.
+
+    - Bollen
+        - Latente Variablen widerspiegeln sich in verschiedenen Messintrmenten und Methoden.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Operationalisierung"
+
+- question: >-
+    Welche 2 Arten von Messdaten gibt es? *Bezogen auf die Resultate, nicht inherent.*
+  answer: >-
+    - valide
+        - face validity: offensichtlich
+        - inhaltliche Validität: Resultate sind in sich stimmig / kohärent
+        - Konstruktvalidität
+
+    - reliabel
+        - zuverlässig wiederholbar
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Daten"
+
+- question: >-
+    Welche Form von Variabeltypen und Skalentypen gibt es?
+  answer: >-
+    - kategorial, qualitativ
+        - nominal
+            - A, D
+            
+            - Ähnlichkeit + Differenz
+            
+            - Einteilung in Kategorien möglich.
+
+        - ordinal
+          - A, D, R
+
+          - Ähnlichkeit + Differenz + Rang
+          
+          - Einteilung in Kategorien möglich, wobei die Einteilung hierarchisch ist.
+
+    - numerisch, metrisch
+        - intervall
+            - A, D, R, I
+
+            - Ähnlichkeit + Differenz + Rang + Intervall
+
+            - Einteilung in hierarchische Abstufungen gleichen Abstands möglich, wobei es keinen absoluten Nullpunkt (bei der Skala) gibt.
+
+        - ratio
+            - A, D, R, I
+
+            - Ähnlichkeit + Differenz + Rang + Intervall + Verhältnis
+
+            - Einteilung in hierarchische Abstufungen gleichen Abstands möglich, wobei es einen absoluten Nullpunkt (bei der Skala) gibt.
+
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Daten"
+# - question: >-
+#     .
+#   answer: >-
+#     .
+#   subject: "Politikwissenschaften"
+#   module: "Intro Methoden und Statistik"
+#   topic: "new"
+
+# - question: >-
+#     .
+#   answer: >-
+#     .
+#   subject: "Politikwissenschaften"
+#   module: "Intro Methoden und Statistik"
+#   topic: "new"
+
+# - question: >-
+#     .
+#   answer: >-
+#     .
+#   subject: "Politikwissenschaften"
+#   module: "Intro Methoden und Statistik"
+#   topic: "new"
