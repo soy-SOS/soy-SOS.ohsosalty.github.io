@@ -4,7 +4,7 @@ title: Statistics Quiz
 permalink: /quiz/statistics
 ---
 
-
+## Inhalt
 
 {% assign testgroup = site.data.statistics_questions | group_by: 'topic' %}
 
@@ -15,7 +15,7 @@ permalink: /quiz/statistics
 
 
 ## {{i.name}}
-*([zurück nach oben](./statistics.md#iname))*
+*([zurück nach oben](./statistics.md#inhalt))*
 
 {% for q in i.items %}
 
