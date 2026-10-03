@@ -53,7 +53,7 @@
             {{ include.answer | markdownify }}
 
             {% for child in include.children %}
-            <details class="sub">
+            <details class="sub" {{ child.open }}>
                 <summary>{{ child.question }}</summary>
 
                 <div>

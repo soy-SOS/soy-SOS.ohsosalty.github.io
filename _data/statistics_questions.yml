@@ -238,33 +238,24 @@
   topic: "Forschungsfrage"
 
 - question: >-
-    Bestimme den Fragetypen: Erhöht E-Voting die Wahlbeteiligung?
-  answer: >-
-    Evaluativ
-  subject: "Politikwissenschaften"
-  module: "Intro Methoden und Statistik"
-  topic: "Forschungsfrage"
-
-- question: >-
-    Bestimme den Fragetypen: Wer beteiligt sich an Klimademonstrationen?
-  answer: >-
-    Deskriptiv
-  subject: "Politikwissenschaften"
-  module: "Intro Methoden und Statistik"
-  topic: "Forschungsfrage"
-
-- question: >-
-    Bestimme den Fragetypen: Haben Schweizer:innen höheres Vertrauen in die Politik als Einwohner angrenzender Nachbarstaaten?
-  answer: >-
-    Vergleichend
-  subject: "Politikwissenschaften"
-  module: "Intro Methoden und Statistik"
-  topic: "Forschungsfrage"
-
-- question: >-
-    Bestimme den Fragetypen: Weshalb stimmen Schweizer:innen gegen Massnahmen, die den Klimaschutz stärken?
-  answer: >-
-    Erklärend
+    Bestimme den Fragetypen.
+  children:
+    - question: >-
+        Erhöht E-Voting die Wahlbeteiligung?
+      answer: >-
+        Evaluativ
+    - question: >-
+        Wer beteiligt sich an Klimademonstrationen?
+      answer: >-
+        Deskriptiv
+    - question: >-
+        Haben Schweizer:innen höheres Vertrauen in die Politik als Einwohner angrenzender Nachbarstaaten?
+      answer: >-
+        Vergleichend
+    - question: >-
+        Weshalb stimmen Schweizer:innen gegen Massnahmen, die den Klimaschutz stärken?
+      answer: >-
+        Erklärend
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
@@ -272,36 +263,36 @@
 - question: >-
     Was sind Theorie, Erwartung und Hypothese?
   answer: >-
-    <details  class="sub">
-    <summary>Theorie</summary>
+    Klicke für mehr Informationen zum jeweiligen Begriff.
+  children:
+    - question: >-
+        Theorie
+      answer: >-
+        Die Theorie ist die begründete Auswahl möglicher Mechanismen. Sie stellt einen Zusammenhang zwischen zwei Variablen her und macht die Erwartungen sichtbar.
+    - question: >-
+        Erwartung
+      answer: >-
+        Die Erwartung ist die Anwendung der Theorie auf das zu untersuchende Fallbeispiel. Sie ist also die Beobachtung, die erklärt wird mittels der Theorie. Aus ihr wird die Hypothese gestellt.
+    - question: >-
+        Was ist die Hypothese? Was sind ihre 3 Bestandteile?
+      answer: >-
+        Die Hypothese ist die Behauptung, die sich von der Erwartung ableiten lässt. Ihre Bestandteile sind:
 
-    Die Theorie ist die begründete Auswahl möglicher Mechanismen. Sie stellt einen Zusammenhang zwischen zwei Variablen her und macht die Erwartungen sichtbar.
-    </details>
-    <details  class="sub">
-    <summary>Erwartung</summary>
 
-    Die Erwartung ist die Anwendung der Theorie auf das zu untersuchende Fallbeispiel. Sie ist also die Beobachtung, die erklärt wird mittels der Theorie. Aus ihr wird die Hypothese gestellt.
+        - Erklärender Faktor: Unabhängige Variable
 
-    </details>
-    <details  class="sub">
-    <summary>Was ist die Hypothese? Was sind ihre 3 Bestandteile?</summary>
+        - Ergebnis: Abhängige Variable
 
-    Die Hypothese ist die Behauptung, die sich von der Erwartung ableiten lässt. Ihre Bestandteile sind:
+        - Erwartete Richtung: Form der Korrelation (positiv oder negativ)
+    - question: >-
+        Beispiel für politisches Wirksamkeitsgefühl und Wahlbeteiligung (hover für Auflösung):
+      answer: >-
+        - Mechanismus: <span class="spoiler">*Wer mehr Wirkung erwartet, investiert eher Zeit und Energie.*</span>
 
-    - Erklärender Faktor: Unabhängige Variable
-    - Ergebnis: Abhängige Variable
-    - Erwartete Richtung: Form der Korrelation (positiv oder negativ)
+        - Erwartung: <span class="spoiler">*Höheres Wirksamkeitsgefühl geht mit mehr Engagement einher.*</span>
 
-    </details>
-
-    Beispiel für politisches Wirksamkeitsgefühl und Wahlbeteiligung (hover für Auflösung):
-    <br>
-
-    - Mechanismus: <span class="spoiler">*Wer mehr Wirkung erwartet, investiert eher Zeit und Energie.*</span>
-
-    - Erwartung: <span class="spoiler">*Höheres Wirksamkeitsgefühl geht mit mehr Engagement einher.*</span>
-
-    - Hypothese: <span class="spoiler">*Je stärker das politische Wirksamkeitsgefühl junger Menschen, desto wahrscheinlicher beteiligen sie sich an Wahlen.*</span>
+        - Hypothese: <span class="spoiler">*Je stärker das politische Wirksamkeitsgefühl junger Menschen, desto wahrscheinlicher beteiligen sie sich an Wahlen.*</span>
+      open: open
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
@@ -345,7 +336,9 @@
   answer: >-
     Ist die Nullhypothese bestätigt, so lässt sich schliessen, dass **kein Zusammenhang zwischen den Konzepten der Hypothese** besteht.
 
+
     Somit gilt die **Hypothese** als **widerlegt**.
+
 
     Eine widerlegte Hypothese hat dennoch wissenschaftlichen Mehrwert.
   subject: "Politikwissenschaften"
@@ -413,19 +406,26 @@
 - question: >-
     Welche drei Ansätze zur Erstellung eines Konzept gibt es?
   answer: >-
-    - Aristoteles Ansatz:
+    Die aufgelisteten Ansätze sind keineswegs die einzigen. Diese drei Beispiele wurden im Unterricht erwähnt, da sie in der Politikwissenschaft verbreitet sind.
+  children:
+    - question: >-
+        Aristoteles
+      answer: >-
         - wesentliche Merkmale isolieren
-        
+
         - Parameter bestimmen (also Dinge, die das Konzept beeinflussen, identifizieren)
-        
+
         - Dependenzen / Bedingungen erkennen (Hängt das Konzept von einer bestimmten Begebenheit ab?)
-
-    - Wittgenstein
+    - question: >-
+        Wittgenstein
+      answer: >-
         - Betrachten: wo gibt es Ähnlichkeiten?
-            - Dieser Ansatz geht die Problemstellung mit einem Clustering-Ansatz an.
-
-    - Bollen
-        - Latente Variablen widerspiegeln sich in verschiedenen Messintrmenten und Methoden.
+            
+        - Dieser Ansatz geht die Problemstellung mit einem Clustering-Ansatz an.
+    - question: >-
+        Bollen
+      answer: >-
+        Latente Variablen spiegeln sich in verschiedenen Messinstrumenten und Methoden wider.
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Operationalisierung"
