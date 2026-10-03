@@ -50,7 +50,20 @@
         <summary>{{ include.title }}</summary>
         <div>
 
-            {{ include.content | markdownify }}
+            {{ include.answer | markdownify }}
+
+            {% for child in include.children %}
+            <details class="sub">
+                <summary>{{ child.question }}</summary>
+
+                <div>
+
+                    {{ child.answer | markdownify }}
+
+                </div>
+
+            </details>
+            {% endfor %}
 
         </div>
     </details>

@@ -14,15 +14,17 @@
     Was bedeutet der Begriff "empirische Sozialforschung"?
   answer: >-
     **Das systematische, datenbasierte Untersuchen von gesellschaftlichen und politischen Fragen.**
+  children:
+    - question: >-
+        Was sind die Subkategorien der empirischen Sozialforschung?
+      answer: >-
+        | **Quantitativ** | Zahlen, Statistik, grosse Fallzahlen |
 
-    <details  class="sub" markdown=1>
-    <summary>Was sind die Subkategorien der empirischen Sozialforschung?</summary>
+        | **Qualitativ** | Interviews, Texte |
 
-    | Quantitativ                          | Qualitativ        | Mixed Methods | Computational                             |
-    | ------------------------------------ | ----------------- | ------------- | ----------------------------------------- |
-    | Zahlen, Statistik, grosse Fallzahlen | Interviews, Texte | Kombination   | Grosse Datenmengen, Text- & Netzwerkdaten |
+        | **Mixed Methods** | Kombination |
 
-    </details>
+        | **Computational** | Grosse Datenmengen, Text- & Netzwerkdaten |
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
@@ -148,59 +150,65 @@
 - question: >-
     (4) Merkmale einer guten Fragestellung.
   answer: >-
-    <details  class="sub">
-    <summary>Wissenschaftliche Relevanz</summary>
+    Klicke auf das Merkmal um die jeweiligen Details zu sehen.
+  children:
+    - question: >-
+        Wissenschaftliche Relevanz
+      answer: >-
+        *Was versteht die Wissenschaft nachher besser?*
 
-    *Was versteht die Wissenschaft nachher besser?*
 
-    Die Antwort auf die Frage leistet einen **begründeten Beitrag** zum Forschungsstand.
-    Für die wissenschaftliche Relevanz braucht es also einen direkten Bezug zum aktuellen Forschungsstand.
+        Die Antwort auf die Frage leistet einen **begründeten Beitrag** zum Forschungsstand.
+        Für die wissenschaftliche Relevanz braucht es also einen direkten Bezug zum aktuellen Forschungsstand.
 
-    ## Verschiedene Beiträge zur Wissenschaft
+        ## Verschiedene Beiträge zur Wissenschaft
 
-    1. Der Forschungsstand ist lückenhaft.
-    2. Es gibt widersprüchliche Theorien oder empirische Befunde.
-    3. Aktuelle Erklärungen gelten nur für bestimmte Gruppen.
-    4. Neue Daten, Konzepte, Methoden verändern den bisherigen Konsens.
-    5. Das Problem lässt sich mit der Kombination von verschiedenen Forschungsansätzen besser erklären.
+        1. Der Forschungsstand ist lückenhaft.
 
-    </details>
-    <details  class="sub">
-    <summary>Klare Formulierung</summary>
+        2. Es gibt widersprüchliche Theorien oder empirische Befunde.
 
-    *Sind die Konzepte der Frage eindeutig oder lassen sie Interpretationsspielraum?*
+        3. Aktuelle Erklärungen gelten nur für bestimmte Gruppen.
 
-    Zentrale **Begriffe und Fälle sind erkennbar und eindeutig**. Ist eine Forschungsfrage unklar definiert, so ist es schwer, einen eindeutigen Beitrag zur Wissenschaft zu definieren. Eine unklare Frage muss aber nicht verworfen werden, sondern kann überarbeitet und präzisiert werden.
+        4. Neue Daten, Konzepte, Methoden verändern den bisherigen Konsens.
 
-    ## Beispiel für Überarbeitung der Frage
+        5. Das Problem lässt sich mit der Kombination von verschiedenen Forschungsansätzen besser erklären.
+    - question: >-
+        Klare Formulierung
+      answer: >-
+        *Sind die Konzepte der Frage eindeutig oder lassen sie Interpretationsspielraum?*
 
-    **Warum wählen Menschen nicht?**
 
-    Problem -> Verbesserungsvorschlag:
+        Zentrale **Begriffe und Fälle sind erkennbar und eindeutig**. Ist eine Forschungsfrage unklar definiert, so ist es schwer, einen eindeutigen Beitrag zur Wissenschaft zu definieren. Eine unklare Frage muss aber nicht verworfen werden, sondern kann überarbeitet und präzisiert werden.
 
-    - Welche Menschen? -> junge Menschen in der Schweiz
-    - Was für Wahlen? -> kantonale Abstimmungen
-    - Welche Form von Erklärung ist gesucht? -> soziodemographische Gründe
+        ## Beispiel für Überarbeitung der Frage
 
-    Eine bessere Frage wäre also: **Welche soziodemographischen Merkmale beeinflussen die Beteiligung an kantonalen Abstimmungen junger Erwachsener?**
+        **Warum wählen Menschen nicht?**
 
-    </details>
-    <details  class="sub">
-    <summary>Beantwortbar</summary>
 
-    *Sind wir mit den nötigen Mitteln ausgestattet, um die Frage überhaupt zu beantworten?*
+        Problem -> Verbesserungsvorschlag:
 
-    Beobachtungen und/oder stimmige, logische Argumente bestimmen die Antwort.
+        - Welche Menschen? -> junge Menschen in der Schweiz
 
-    </details>
-    <details  class="sub">
-    <summary>Offen</summary>
+        - Was für Wahlen? -> kantonale Abstimmungen
 
-    *Enthält die Formulierung der Frage gleich die Antwort (oder einen Teil der Antwort)?*
+        - Welche Form von Erklärung ist gesucht? -> soziodemographische Gründe
 
-    Um die Frage ehrlich und wissenschaftlich beantworten zu können, muss sie offen formuliert sein. Ist sie so gestellt, dass sie kontroverse Annahmen trifft oder die eigene Wertung klar ersichtlich ist, so spricht man von einer **lenkenden Frage**.
 
-    </details>
+        Eine bessere Frage wäre also: **Welche soziodemographischen Merkmale beeinflussen die Beteiligung an kantonalen Abstimmungen junger Erwachsener?**
+    - question: >-
+        Beantwortbar
+      answer: >-
+        *Sind wir mit den nötigen Mitteln ausgestattet, um die Frage überhaupt zu beantworten?*
+
+
+        Beobachtungen und/oder stimmige, logische Argumente bestimmen die Antwort.
+    - question: >-
+        Offen
+      answer: >-
+        *Enthält die Formulierung der Frage gleich die Antwort (oder einen Teil der Antwort)?*
+
+
+        Um die Frage ehrlich und wissenschaftlich beantworten zu können, muss sie offen formuliert sein. Ist sie so gestellt, dass sie kontroverse Annahmen trifft oder die eigene Wertung klar ersichtlich ist, so spricht man von einer **lenkenden Frage**.
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
