@@ -1,0 +1,47 @@
+---
+layout: page
+title: Statistik Quiz
+permalink: /quiz/statistics
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="/assets/js/quiz_filter.js"></script>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+</head>
+
+<body>
+  {% assign questions = site.data.statistics_questions %}
+  {% assign topics = questions | map: "topic" | compact | uniq %}
+
+  <label for="category-filter-buttons" class="filter-buttons-label">
+    Kategorien </label>
+  <title></title>
+  <div class="category-filter-buttons">
+    <button onclick="onFilterByName(this, 'quiz_zip')" name="quiz-filter" class="quiz-filter on"
+      type="radio">Alle</button>
+
+    {% for topic in topics %}
+    <button onclick="onFilterByName(this, '{{topic |slugify}}')" class="quiz-filter" type="radio" name="quiz-filter"
+      value="{{topic | slugify}}">{{topic}}</button>
+    {% endfor %}
+  </div>
+  {% for question in questions %}
+
+  {% include zip.html
+  topic=question.topic
+  title=question.question
+  answer=question.answer
+  open=question.open
+  children=question.children
+  %}
+
+  {% endfor %}
+
+</body>
+
+</html>
