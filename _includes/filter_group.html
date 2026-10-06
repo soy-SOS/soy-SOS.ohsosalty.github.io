@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <script src="{{site.baseurl}}/assets/js/quiz_filter.js"></script>
+</head>
+
+<body>
+  {% assign filter = include.filter.first %}
+  {% assign button_class = filter.button_class | append: " quiz-filter" %}
+
+  <label for={{filter.buttons_group_class}} class="filter-buttons-label">
+    {{filter.label}} </label>
+  <div class="{{filter.buttons_group_class}} filter-group">
+    <button onclick="onFilterByAttribute(
+        /*button=*/this, /*attribute=*/'{{filter.target_class}}', 
+        /*targetName*/'{{filter.target_class}}',
+        /*buttonName*/'{{filter.button_class}}')" name="{{button_class}}" class="{{button_class}} on" type="radio"
+      value="all">Alle</button>
+
+    {% for attribute in include.attributes %}
+    <button onclick="onFilterByAttribute(
+      /*button=*/this,
+      /*attribute=*/'{{attribute |slugify}}', 
+      /*targetName*/'{{filter.target_class}}',
+      /*buttonName*/'{{filter.button_class}}')" class="{{button_class}}" type="radio" name="{{button_class}}"
+      value="{{attribute | slugify}}">{{attribute}}</button>
+    {% endfor %}
+  </div>
+
+</body>
+
+</html>

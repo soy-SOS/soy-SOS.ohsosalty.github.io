@@ -9,7 +9,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
-  active: true
 
 - question: >-
     Was bedeutet der Begriff "empirische Sozialforschung"?
@@ -29,7 +28,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
-  active: true
 
 - question: >-
     Benenne alle Schritte der Analysekette.
@@ -52,7 +50,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
-  active: true
 
 - question: >-
     Wie können Fragen wissenschaftlich beantwortet werden? (4 Merkmale)
@@ -75,7 +72,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
-  active: true
 
 - question: >-
     Warum reichen einzelne (anekdotische) Erfahrungen nicht aus? (3 Punkte)
@@ -88,7 +84,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
-  active: true
 
 - question: >-
     Welche (3) Fragen zeichnen die empirische Lösung aus?
@@ -101,7 +96,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
-  active: true
 
 - question: >-
     Was bedeutet es Fragen "empirisch" zu beantworten?
@@ -110,7 +104,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
-  active: true
 
 - question: >-
     Woher stammen Daten, die für empirische Forschung geeignet sind? (4 Beispiele)
@@ -125,7 +118,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Grundlagen"
-  active: true
 
 - question: >-
     Welche (4) Themen sind Untersuchungsgegenstände der Politikwissenschaft?
@@ -140,7 +132,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     Was sind die (4) Quellen politischer Forschungsfragen?
@@ -155,7 +146,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     (4) Merkmale einer guten Fragestellung.
@@ -222,7 +212,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     (5) Frage-/Antworttypen und ihr jeweiliges Ziel.
@@ -247,7 +236,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     Bestimme den Fragetypen.
@@ -271,7 +259,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     Was sind Theorie, Erwartung und Hypothese?
@@ -310,7 +297,6 @@
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
   open: open
-  active: true
 
 - question: >-
     Was ist Operationalisierung?
@@ -319,7 +305,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Operationalisierung"
-  active: true
 
 - question: >-
     5 Merkmale einer guten Hypothese
@@ -336,7 +321,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     Was ist die Nullhypothese?
@@ -346,7 +330,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     Welche Auswirkung hat eine bestätigte Nullhypothese auf die Forschung?
@@ -361,7 +344,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     4 Bestandteile der Forschungsantwort
@@ -378,7 +360,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     Analysekette als Prüfkette: Was sind die (4) Fragen im Verlauf der Analysekette, mit denen ein Kettenbruch identifiziert werden kann?
@@ -393,7 +374,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Forschungsfrage"
-  active: true
 
 - question: >-
     Welche zwei grundlegenden Schritte machen die Operationalisierung aus?
@@ -404,7 +384,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Operationalisierung"
-  active: true
 
 - question: >-
     (2 Punkte) Was ist ein Konzept? (2 Punkte) Was ist die Funktion des Konzeptes?
@@ -423,7 +402,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Operationalisierung"
-  active: true
 
 - question: >-
     Welche drei Ansätze zur Erstellung eines Konzept gibt es?
@@ -451,7 +429,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Operationalisierung"
-  active: true
 
 - question: >-
     Welche 2 Arten von Messdaten gibt es? *Bezogen auf die Resultate, nicht inherent.*
@@ -466,7 +443,6 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Daten"
-  active: true
 
 - question: >-
     Welche Form von Variabeltypen und Skalentypen gibt es?
@@ -495,7 +471,7 @@
             - Einteilung in hierarchische Abstufungen gleichen Abstands möglich, wobei es keinen absoluten Nullpunkt (bei der Skala) gibt.
 
         - ratio
-            - A, D, R, I
+            - A, D, R, I, V
 
             - Ähnlichkeit + Differenz + Rang + Intervall + Verhältnis
 
@@ -504,6 +480,42 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Daten"
+
+- question: >-
+    Definiere "latente Konzepte"
+  answer: >-
+    Latente Konzepte sind nicht direkt beobachtbar. Das heisst, es gibt keinen fixen Messwert, der die Ausprägung des Konzeptes beschreiben könnte.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Konzept"
+
+- question: >-
+    Wie kann man die Ausprägung eines latenten Konzeptes beobachten?
+  answer: >-
+    Indikatoren machen latente Konzepte beobachtbar.
+  children:
+  - question: >-
+      4 Beispiele
+    answer: >-
+      - Selbsteinstufung
+
+      - Einstellung Wirtschaft
+
+      - Einstellung Migration
+
+      - Parteiwahl
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Konzept"
+
+- question: >-
+    Wie ist zu sehen, ob Indikatoren latente Konzepte gut erschliessen?
+  answer: >-
+    Indem man **Reliabilität** und **Validität** überprüft.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Konzept"
+
 # - question: >-
 #     .
 #   answer: >-

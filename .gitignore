@@ -5,3 +5,7 @@ _site
 .vscode
 vendor
 Gemfile.lock
+notes
+util
+_data/quiz/latin
+quiz/latin.html

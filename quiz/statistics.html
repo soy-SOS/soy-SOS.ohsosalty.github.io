@@ -10,26 +10,16 @@ permalink: /quiz/statistics
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script src="{{site.baseurl}}/assets/js/quiz_filter.js"></script>
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
 </head>
 
 <body>
-  {% assign questions = site.data.statistics_questions %}
+  {% assign questions = site.data.quiz.statistics_questions %}
   {% assign topics = questions | map: "topic" | compact | uniq %}
+  {% assign topic_filter = site.data.filter | where: "attribute", "topic" %}
 
-  <label for="category-filter-buttons" class="filter-buttons-label">
-    Kategorien </label>
-  <title></title>
-  <div class="category-filter-buttons">
-    <button onclick="onFilterByName(this, 'quiz_zip')" name="quiz-filter" class="quiz-filter on"
-      type="radio">Alle</button>
+  {% include filter_group.html filter=topic_filter attributes=topics %}
 
-    {% for topic in topics %}
-    <button onclick="onFilterByName(this, '{{topic |slugify}}')" class="quiz-filter" type="radio" name="quiz-filter"
-      value="{{topic | slugify}}">{{topic}}</button>
-    {% endfor %}
-  </div>
   {% for question in questions %}
 
   {% include zip.html

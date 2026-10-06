@@ -1,0 +1,7 @@
+- label: "Kategorie"
+  name: "topic"
+  button_class: "filter-category-button"
+  buttons_group_class: "filter-category-buttons"
+  target_class: "quiz_zip"
+  attribute: "topic"
+
