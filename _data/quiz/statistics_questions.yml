@@ -555,13 +555,103 @@
   module: "Intro Methoden und Statistik"
   topic: "Daten"
 
-# - question: >-
-#     .
-#   answer: >-
-#     .
-#   subject: "Politikwissenschaften"
-#   module: "Intro Methoden und Statistik"
-#   topic: "new"
+- question: >-
+    Welche Teile eines Datensatzes enthalten folgende Informationen?
+  answer: >-
+    Aufklappen für Lösungen.
+  children:
+  - question: Fälle
+    answer: Zeile
+  - question: Variablen
+    answer: Spalte
+  - question: Wert
+    answer: Zelle
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Daten"
+  open: open
+
+- question: >-
+    Was ist das arithmetische Mittel?
+  answer: >-
+    Das arithmetische Mittel, auch Durchschnitt genannt, ergibt sich aus der Summe aller Variabelwerte, geteilt durch die Anzahl Werte.
+
+    Bestimme den Durchschnitt für die folgenden Listen.
+  children:
+  - question: werte = [1, 1, 1, 3, 3, 3]
+    answer: >-
+      average(werte) = **2**
+
+      ...weil
+
+      - summe(werte) = 12
+      
+      - 12 / N(werte) = 12 / 6 = 2
+  - question: werte = [3, 24]
+    answer: >-
+      average(werte) = *13.5*
+
+      ... weil
+
+      - summe(werte) = 27
+      
+      - 27 / N(werte) = 27 / 2 = 13.5
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Daten"
+
+- question: >-
+    Was ist der Modus?
+  answer: >-
+    Der Modus ist der am häfigsten vorkommende Wert.
+  children:
+  - question: werte = [1, 1, 1, 5, 6, 10, 10]
+    answer: modus(werte) = **1**
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Daten"
+
+- question: >-
+    Was ist der Median?
+  answer: >-
+    Für den Median werden alle Werte geordnet und unaggregiert aufgelistet. Der Median ist dann das mittlere Element, oder im Falle einer geraden Anzahl Werte, der Durchschnitt der beiden mittleren Werte.
+  children:
+  - question: werte = [1, 1, 1, 5, 1000, 1000, 2000]
+    answer: >-
+      median(werte) = **5**
+      
+      ...weil:
+
+      median(werte) = werte[(N(werte)-1)/2] = werte[3] = 5
+  - question: werte = [1, 2, 3, 4]
+    answer: >-
+      median(werte) = **2.5**
+
+      ...weil
+      - mittlere Elemente von `werte` sind [2, 3]
+
+      - Durchschnitt der mittleren Werte = 2.5
+  - question: werte = [3, 3, 6, 6, 2]
+    answer: >-
+      median(werte) = **3**
+
+      ... weil
+
+      - geordnete `werte` = [2, 3, 3, 6, 6]
+      - mittleres Element = 3
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Daten"
+
+- question: >-
+    Welche zwei Varianten latente Konzepte zu operationalisieren gibt es?
+  answer: >-
+    - Ein einziger Indikator wird festgelegt und in einen messbaren Wert zusammengefasst. Als Beispiel: politisch rechts/links mit link = 0, rechts = 10 und Skala von 0 - 10.
+
+    - Ein Index: Verschiedene Aspekte für das Konzept werden isoliert betrachtet, auseinandergenommen und einzeln vermessen. Später werden die verschiedenen Variablen zu einem Index kombiniert.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Konzept"
 
 # - question: >-
 #     .
