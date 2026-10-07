@@ -580,22 +580,22 @@
   children:
   - question: werte = [1, 1, 1, 3, 3, 3]
     answer: >-
-      average(werte) = **2**
+      average(`werte`) = **2**
 
       ...weil
 
-      - summe(werte) = 12
+      - summe(`werte`) = 12
       
-      - 12 / N(werte) = 12 / 6 = 2
+      - 12 / N(`werte`) = 12 / 6 = 2
   - question: werte = [3, 24]
     answer: >-
-      average(werte) = *13.5*
+      average(`werte`) = **13.5**
 
       ... weil
 
-      - summe(werte) = 27
+      - summe(`werte`) = 27
       
-      - 27 / N(werte) = 27 / 2 = 13.5
+      - 27 / N(`werte`) = 27 / 2 = 13.5
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Daten"
@@ -606,7 +606,7 @@
     Der Modus ist der am häfigsten vorkommende Wert.
   children:
   - question: werte = [1, 1, 1, 5, 6, 10, 10]
-    answer: modus(werte) = **1**
+    answer: modus(`werte`) = **1**
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Daten"
@@ -618,26 +618,27 @@
   children:
   - question: werte = [1, 1, 1, 5, 1000, 1000, 2000]
     answer: >-
-      median(werte) = **5**
+      median(`werte`) = **5**
       
       ...weil:
 
-      median(werte) = werte[(N(werte)-1)/2] = werte[3] = 5
+      median(`werte`) = `werte[(N(werte) - 1) / 2]` = `werte[3]` = 5
   - question: werte = [1, 2, 3, 4]
     answer: >-
-      median(werte) = **2.5**
+      median(`werte`) = **2.5**
 
       ...weil
-      - mittlere Elemente von `werte` sind [2, 3]
+      - mittlere Elemente von `werte` sind `[2, 3]`
 
       - Durchschnitt der mittleren Werte = 2.5
   - question: werte = [3, 3, 6, 6, 2]
     answer: >-
-      median(werte) = **3**
+      median(`werte`) = **3**
 
       ... weil
 
-      - geordnete `werte` = [2, 3, 3, 6, 6]
+      - geordnete `werte` = `[2, 3, 3, 6, 6]`
+      
       - mittleres Element = 3
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
