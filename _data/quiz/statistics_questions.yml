@@ -476,10 +476,22 @@
             - Ähnlichkeit + Differenz + Rang + Intervall + Verhältnis
 
             - Einteilung in hierarchische Abstufungen gleichen Abstands möglich, wobei es einen absoluten Nullpunkt (bei der Skala) gibt.
-
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Daten"
+
+- question: Bestimme den Skalentyp
+  answer: ""
+  children:
+  - question: Alter
+    answer: >-
+      **Ratio**: 
+  - question: >-
+      Selbsteinschätzung Skala 0-10: politisch links (0), politisch rechts(10) 
+    answer: >-
+      **Ordinal**
+
+      *Skalenwerte sind klar kategorisierbar und haben eine Rangfolge. Aber achtung: Es kann sich NICHT um ein Intervall oder ein Ratio handeln, da die Abstände zwischen den einzelnen Werten nicht konstant ist. Der Schritt von 3->4 ist nicht zwingend so gross wie der von 9->10*.
 
 - question: >-
     Definiere "latente Konzepte"
@@ -515,6 +527,49 @@
   subject: "Politikwissenschaften"
   module: "Intro Methoden und Statistik"
   topic: "Konzept"
+
+- question: >-
+    Validität: Nenne die 3 Typen und ihre Definition.
+  answer: >-
+    Die Arten von Validität sind: Face-Validity, Inhaltsvalidität, Konstruktvalidität.
+  children:
+  - question: Face-Validität
+    answer: Wirkt die Frage sinnvoll?
+  - question: Inhaltsvalidität
+    answer: Ist das Konzept durch die Frage komplett abgedeckt?
+  - question: Konstruktvalidität
+    answer: Passt der Indikator in die Theorie?
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Konzept"
+
+- question: >-
+    Was ist der Ablauf bei der Datenerhebung mittels Umfragen? Nenne die 3 Schritte in der richtigen Reihenfolge.
+  answer: >-
+    1. Person antwortet.
+
+    2. Antwort wird notiert.
+
+    3. Antwort wird in einem Datensatz abgespeichert.
+  subject: "Politikwissenschaften"
+  module: "Intro Methoden und Statistik"
+  topic: "Daten"
+
+# - question: >-
+#     .
+#   answer: >-
+#     .
+#   subject: "Politikwissenschaften"
+#   module: "Intro Methoden und Statistik"
+#   topic: "new"
+
+# - question: >-
+#     .
+#   answer: >-
+#     .
+#   subject: "Politikwissenschaften"
+#   module: "Intro Methoden und Statistik"
+#   topic: "new"
 
 # - question: >-
 #     .
