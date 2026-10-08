@@ -42,18 +42,18 @@
   background-color: transparent;
 }
 
-.quiz-filter {
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  background-color: #ddd;
-  opacity: 50%;
-  font-size: medium;
+.btn {
+  margin-bottom: 10px;
+}
+
+.quiz-filter.btn {
+  /* background-color: #ddd; */
+  opacity: 45%;
   padding: 5px;
 }
 
-.on.quiz-filter {
+.on.quiz-filter.btn {
   opacity: 100%;
-  background-color: transparent;
   font-weight: bold;
 }
 
@@ -65,5 +65,7 @@
 .filter-group {
   border: 1px solid #ddd;
   border-radius: 5px;
-  padding: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
 }

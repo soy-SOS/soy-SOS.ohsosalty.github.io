@@ -1,3 +1,10 @@
+---
+layout: post
+title: (Stoler, Cooper) Tensions of Empire
+parent: Basismodul 1
+permalink: /history/bm1/
+---
+
 # [Notizen] Stoler et al: Tensions of Empire (1997)
 
 *Lektüre (S. 1-11) für den 07. Oktober 2026*

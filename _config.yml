@@ -23,13 +23,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is Sarina's testing ground for random stuff.
 url: "https://soy-sos.github.io"
 baseurl: /soy-SOS.ohsosalty.github.io
-theme: minima
+theme: just-the-docs
+color_scheme: dark
 plugins:
   - jekyll-feed
 encoding: utf-8
 markdown: kramdown
 kramdown:
   syntax_highlighter: coderay
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

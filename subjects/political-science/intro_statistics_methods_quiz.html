@@ -1,0 +1,38 @@
+---
+layout: page
+title: Statistik Quiz
+parent: Einführung Methoden und Statistik
+permalink: /poli-sci/intro-statistics/quiz/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
+</head>
+
+<body>
+  {% assign questions = site.data.quiz.intro_statistics.statistics_questions %}
+  {% assign topics = questions | map: "topic" | compact | uniq %}
+  {% assign topic_filter = site.data.filter | where: "attribute", "topic" %}
+
+  {% include filter_group.html filter=topic_filter attributes=topics %}
+
+  {% for question in questions %}
+
+  {% include zip.html
+  topic=question.topic
+  title=question.question
+  answer=question.answer
+  open=question.open
+  children=question.children
+  %}
+
+  {% endfor %}
+
+</body>
+
+</html>
